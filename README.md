@@ -4,17 +4,18 @@ The Car Rental System is a console-based Java application that allows users to a
 
 ### 🛠 Features
 
-✅ Add a new car to the system.
-✅ Display all available cars.
-✅ Rent a car using a Car ID.
-✅ Return a rented car using a Car ID.
-✅ Maintain customer details for rented cars.
+- ✅ Add a new car to the system.
+- 📈 Display all available cars.
+- 🚗 Rent a car using a Car ID.
+- 🗑️ Return a rented car using a Car ID.
+- 📚 Maintain customer details for rented cars.
 
 
 ### 🏗 Technologies Used
 
 - Object-Oriented Programming (OOP) Principles 🏛
-- Console-Based User Interface 🎛
+- 📚 Collection Framework (ArrayList)
+- ⌨️ Scanner Class for User Input
 
 ### 🚀 Getting Started
 - Run the program.
