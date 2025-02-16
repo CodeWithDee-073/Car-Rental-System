@@ -17,7 +17,8 @@ The Car Rental System is a console-based Java application that allows users to a
 - 📚 Collection Framework (ArrayList)
 - ⌨️ Scanner Class for User Input
 
-### 🚀 Getting Started
+### 🎯 How to Use
+
 - Run the program.
 - Choose an option from the menu:
   - 🚗 Add Car
@@ -28,6 +29,17 @@ The Car Rental System is a console-based Java application that allows users to a
 - Follow on-screen prompts to enter car and customer details.
 - View and manage rentals dynamically
 
+### 🚀 Getting Started
+
+- **Clone the Repo:**
+```
+git clone https://github.com/CodeWithDee-073/Car-Rental-System.git
+```
+
+### 🎉 Contributions Welcome
+
+Feel free to contribute to this project by submitting pull requests or reporting issues! 🚀  
+
 ### 🎯 Future Enhancements
 
 - Implement a graphical user interface (GUI).
@@ -35,4 +47,3 @@ The Car Rental System is a console-based Java application that allows users to a
 - Add payment handling for rentals.
 
 ---
-Feel free to contribute to this project by submitting pull requests or reporting issues! 🚀  
